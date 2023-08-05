@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [skipperwraith](https://github.com/skipperwraith)
 - 👀 I’m interested in modding Games
 - 🌱 I’m currently modding Cosmoteer, Forts & SnowRunner
-- 📫 How to reach me: Discord Skipper_Wraith#9999
+- 📫 How to reach me: Discord skipperwraith
 
 <!---
 skipperwraith/skipperwraith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
